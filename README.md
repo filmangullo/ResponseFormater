@@ -4,7 +4,7 @@
 
  **1×× Informational**
 
-100 Continue
+**100** Continue
 
 101 Switching Protocols
 
