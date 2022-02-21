@@ -6,9 +6,9 @@
 
 **100** Continue
 
-**101 Switching Protocols
+**101** Switching Protocols
 
-**102 Processing
+**102** Processing
 
 **2×× Success**
 
