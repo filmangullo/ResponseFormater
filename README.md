@@ -10,6 +10,8 @@
 
 **102** Processing
 
+**103** Early Hints
+
 **2×× Success**
 
 **200** OK
